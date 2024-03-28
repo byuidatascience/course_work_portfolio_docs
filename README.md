@@ -34,4 +34,6 @@ This is all configured so you only need to edit the source files in Quarto (.qmd
 
 1. Once `quarto render` has completed you can use GitHub Desktop to `commit` and `push` changes back to GitHub
 
-1. To find your site URL, click the `open 
+1. To find your site URL, click the `View on GitHub` button on GitHub Desktop
+    a. Navigate back to `Settings` and `Pages`
+    a. Your 
