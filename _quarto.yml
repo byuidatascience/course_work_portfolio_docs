@@ -6,8 +6,10 @@ website:
   title: "Your_Name - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
+  site-url: https://your.published.portfolio.url
   repo-url: https://github.com/your_url
-  #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
+  issue-url: https://github.com/your_url/issues/new
+  repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
